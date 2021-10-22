@@ -3,4 +3,4 @@ git init
 ---url del repositorio---
 git add .
 git commit -m "comentario"
-$ git push origin master
+git push origin master
